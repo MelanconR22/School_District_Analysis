@@ -47,6 +47,10 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 * The following chart shows the results with all of the 9th grade scores removed from Thomas High School:
 
+![Screenshot 2022-07-27 234834](https://user-images.githubusercontent.com/107599510/181422895-2d2c4500-7b44-484e-8df5-d73eefee5537.png)
+
+The scores by school spending was identical with the grades included as well as with grades excluded.  I chose to show a little more granular look at the percentages to show that there was no change and that a change wasn't hidden by the rounding of the percentages.  
+
 ##### Scores by school size
 
 * The following chart shows the results with all scores counted in the summary:
