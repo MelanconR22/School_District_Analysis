@@ -6,7 +6,7 @@ The data provided for this analysis included csv files containing information ab
 
 For this analysis, it is worth noting that there are differences between district schools and charter schools.  These differences lead to different standards for academics, programs, as well as admissions.  The funding for the school also does not come from the same source.  I believe that it is important to recognize these differences and understand that comparing district schools to charter schools is not entirely apples to apples.
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ##### How is the district summary affected?
 * The distric summary was slightly affected when removing the test scores for 9th grade at Thomas High School.  The following chart shows the results with all scores counted in the summary:
@@ -75,7 +75,9 @@ The medium sized school scores were impacted slightly by the removal of the Thom
 
 * The charter school average scores and percentages were impacted slightly by removing ninth grade scores for Thomas High School.  Thomas High School is a charter school so this was expected.  The overall passing percentage dipped from 90.43% to 90.39% for charter schools. 
 
-##### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+# Summary: 
+
+#### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 * district summary
 * school summary
