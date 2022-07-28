@@ -79,7 +79,6 @@ The medium sized school scores were impacted slightly by the removal of the Thom
 
 #### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-* district summary
-* school summary
-* school size
-* school type
+* There were four changes in the results from the school district analysis after scores for the ninth grade at Thomas High School were replaced with NaNs.  The district summary, school summary, school size, and school type scores and overall percentages were impacted.  In many cases, the impact was small and was only noticeable when using percentages calculated to the millionth place.  In many cases, an impact might not have been realized if percentages were rounded to the nearest tenth. 
+ 
+* This is probably due to the fact that there were a total of 39,170 student scores and 461 of those students were ninth graders at Thomas High School.  The number of ninth graders at Thomas High School represents 1.18% of the total number of students in the sample.  Overall, Thomas High School finished in second place from an overall passing percentage standpoint even when the scores were removed. 
