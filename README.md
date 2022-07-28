@@ -55,8 +55,11 @@ The scores by school spending was identical with the grades included as well as 
 
 * The following chart shows the results with all scores counted in the summary:
 
+![Screenshot 2022-07-27 235148](https://user-images.githubusercontent.com/107599510/181423245-0a7766df-33ca-4bd2-98ee-d6eb51d7e24a.png)
 
 * The following chart shows the results with all of the 9th grade scores removed from Thomas High School:
+
+![Screenshot 2022-07-27 235303](https://user-images.githubusercontent.com/107599510/181423392-a02aff0f-a01b-4998-be30-920ad391fd94.png)
 
 ##### Scores by school type
 
