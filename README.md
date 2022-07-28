@@ -21,9 +21,15 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 ##### How is the school summary affected?
 
-* The following chart shows the results with all scores counted in the summary:
+* Looking at the top five schools, Thomas High School scored in second place with and without the test scores included in the summary.  The following chart shows the results with all scores counted in the summary:
+
+![Screenshot 2022-07-27 233217](https://user-images.githubusercontent.com/107599510/181420997-969cdc8d-aa85-4040-a706-40804ad8eda9.png)
 
 * The following chart shows the results with all of the 9th grade scores removed from Thomas High School:
+
+![Screenshot 2022-07-27 233537](https://user-images.githubusercontent.com/107599510/181421396-bff19c65-fc71-45f5-9d5f-74c9f32130be.png)
+
+The overall passing percentage changed slightly from 90.94% to 90.63% after the ninth grade test scores were removed.
 
 ##### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
