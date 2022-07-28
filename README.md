@@ -67,7 +67,17 @@ The medium sized school scores were impacted slightly by the removal of the Thom
 
 * The following chart shows the results with all scores counted in the summary:
 
+![Screenshot 2022-07-27 235900](https://user-images.githubusercontent.com/107599510/181424126-87c89400-7bb5-4209-aa26-d5163982688c.png)
 
 * The following chart shows the results with all of the 9th grade scores removed from Thomas High School:
 
+![Screenshot 2022-07-27 235948](https://user-images.githubusercontent.com/107599510/181424220-91eaa946-28cc-44a0-812d-60db5f2fd983.png)
+
+* The charter school average scores and percentages were impacted slightly by removing ninth grade scores for Thomas High School.  Thomas High School is a charter school so this was expected.  The overall passing percentage dipped from 90.43% to 90.39% for charter schools. 
+
 ##### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+* district summary
+* school summary
+* school size
+* school type
