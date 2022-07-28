@@ -61,6 +61,8 @@ The scores by school spending was identical with the grades included as well as 
 
 ![Screenshot 2022-07-27 235303](https://user-images.githubusercontent.com/107599510/181423392-a02aff0f-a01b-4998-be30-920ad391fd94.png)
 
+The medium sized school scores were impacted slightly by the removal of the Thomas High School ninth grade scores.  The overall passing percentage dipped from 90.62% to 90.56%.  This is evidence that Thomas High School is in the middle school size with 1,000 to 1,999 students.
+
 ##### Scores by school type
 
 * The following chart shows the results with all scores counted in the summary:
