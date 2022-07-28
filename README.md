@@ -29,27 +29,21 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 ![Screenshot 2022-07-27 233537](https://user-images.githubusercontent.com/107599510/181421396-bff19c65-fc71-45f5-9d5f-74c9f32130be.png)
 
-The overall passing percentage changed slightly from 90.94% to 90.63% after the ninth grade test scores were removed.
-
 ##### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-* The following chart shows the results with all scores counted in the summary:
-
-* The following chart shows the results with all of the 9th grade scores removed from Thomas High School:
+* The overall passing percentage changed slightly from 90.94% to 90.63% after the ninth grade test scores were removed.  Thomas High school remained in second place after replacing the math and reading scores.
 
 ##### How does replacing the ninth-grade scores affect the following:
 
 ##### Math and reading scores by grade
 
-* The following chart shows the results with all scores counted in the summary:
-
-
-* The following chart shows the results with all of the 9th grade scores removed from Thomas High School:
+* The above chart provides details about the percentage impact and how the average scores as well as percentages lowered slightly with removal of the grades overall.  It also shows the impact at the grade level.  Removing the ninth grade scores didn't affect the other schools or grade level scores.  However, the removed data did result in a change of the averages and percentages overall for Thomas High School.
 
 ##### Scores by school spending
 
 * The following chart shows the results with all scores counted in the summary:
 
+![Screenshot 2022-07-27 234608](https://user-images.githubusercontent.com/107599510/181422646-2c197111-51d8-4827-a482-c492fe070dea.png)
 
 * The following chart shows the results with all of the 9th grade scores removed from Thomas High School:
 
